@@ -46,8 +46,8 @@ Soc un desenvolupador web apassionat per crear solucions digitals. Estic en cons
 ## 📊 Estadístiques de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=el-teu-usuari&show_icons=true&theme=tokyonight&locale=ca" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=el-teu-usuari&layout=compact&theme=tokyonight&locale=ca" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PauLacasito4&show_icons=true&theme=tokyonight&locale=ca" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauLacasito4&layout=compact&theme=tokyonight&locale=ca" height="165"/>
 </p>
 
 ---
