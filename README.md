@@ -38,15 +38,6 @@ Me apasiona crear soluciones digitales útiles, funcionales y cuidadas visualmen
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PauLacasito4&show_icons=true&theme=tokyonight&locale=es" height="165" alt="Estadísticas de GitHub de Pau" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauLacasito4&layout=compact&theme=tokyonight&locale=es" height="165" alt="Lenguajes más utilizados por Pau" />
-</p>
-
----
-
 ## 🏆 Certificaciones
 
 <p align="left">
